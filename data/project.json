@@ -33,10 +33,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Aging;Award-winning;Canadian whisky;Premium products"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Aging;Barrels;Canadian whisky;Distillate;Interaction;Mash bills;New;Taste;Used;Wood"
         },
         {
@@ -54,7 +50,7 @@
       ]
     },
     "created_at": "2025-04-10T17:46:24.222Z",
-    "updated_at": "2025-04-10T18:01:10.203Z",
+    "updated_at": "2025-04-10T18:01:13.682Z",
     "generate_pages_site": true
   },
   "annotations": {},
