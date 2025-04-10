@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "c09fa0ee-5261-4ce9-a141-5390f2213d2b": {
+      "label": "Interview",
+      "is_offline": false,
+      "file_url": "https://nunncenter.aviaryplatform.com/embed/media/86766",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Interview with Jean-Denis Boivin, June 14, 2018",
+  "created_at": "2025-04-10T17:49:07.242Z",
+  "created_by": "benwbrum",
+  "updated_at": "2025-04-10T17:49:07.242Z",
+  "updated_by": "benwbrum"
+}
