@@ -33,10 +33,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Art;Artistry;Barrels;Blending;Canadian whisky;Craft;Distilling;Experimentation;Experiments;Mash bills;Science"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Canadian whisky;Future;Improvement;Roles"
         },
         {
@@ -46,7 +42,7 @@
       ]
     },
     "created_at": "2025-04-10T17:46:24.222Z",
-    "updated_at": "2025-04-10T18:01:18.068Z",
+    "updated_at": "2025-04-10T18:01:22.802Z",
     "generate_pages_site": true
   },
   "annotations": {},
